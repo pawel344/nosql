@@ -7,9 +7,9 @@ Wszystkie niezbędne moduły znajdują się w repozytorium, więc w przypadku ic
 nie trzeba ich doinstalowywać, wystarczy sklonować całe repozytorium.
 Skrypt uruchamia się poleceniem:
 
-'''
+'
 python nosql.py
-'''
+'
 Po nawiązaniu połączenia z serwerami automatycznie tworzone są odpowiednie bazy i kolekcje.
 Parametry do połączenia z serwerem dla obydwóch systemów takie jak port i adres są ustawione  do testowania lokalnie i można je zmienić na początku kodu. 
 
